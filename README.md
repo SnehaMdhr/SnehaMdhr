@@ -53,7 +53,7 @@
 ### MunchNearby 
 A restaurant searching platform
 
-### 💼 KaamDaam 
+### KaamDaam 
 A job searching platform built with React for connecting job seekers with employers.
 
 
@@ -67,6 +67,6 @@ A job searching platform built with React for connecting job seekers with employ
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/sneha-manandhar-4b248a271/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sneha-manandhar-4b248a271/)
 ---
 
